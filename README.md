@@ -1,4 +1,4 @@
-# RN-multi-select
+# rn-multi-select
 
 A React Native multiple select example using typescript
 
