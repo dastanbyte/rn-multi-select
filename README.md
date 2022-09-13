@@ -31,3 +31,6 @@ A cool library to implement icon usages.
 
 - [@dastanbyte](https://www.github.com/dastanbyte)
 
+## Screenshots
+![Screenshot_1663016264](https://user-images.githubusercontent.com/23508996/189900409-85a1560f-acb8-46ff-8c3c-2a6c90f14133.png)
+![Screenshot_1663016285](https://user-images.githubusercontent.com/23508996/189900511-99f1d07c-5539-4592-b0fa-cc6665e94724.png)
